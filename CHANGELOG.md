@@ -35,6 +35,8 @@
 
 <details>
 
+-   [`cd24439`](https://github.com/stdlib-js/stdlib/commit/cd2443936ed0aeda7b8436dc9d60daf5c25c9699) - **docs:** update `fft/base` TypeScript declarations [(#12582)](https://github.com/stdlib-js/stdlib/pull/12582) _(by stdlib-bot)_
+-   [`a698005`](https://github.com/stdlib-js/stdlib/commit/a698005bdd4e4eb1d10dd409b6856414783ffa6a) - **docs:** update `fft/base/fftpack` TypeScript declarations [(#12581)](https://github.com/stdlib-js/stdlib/pull/12581) _(by stdlib-bot)_
 -   [`1c73e85`](https://github.com/stdlib-js/stdlib/commit/1c73e851e01cf30b72e2b478d0b3a4c4386bd4a0) - **docs:** update namespace ToCs _(by Athan Reines)_
 -   [`4f19dd0`](https://github.com/stdlib-js/stdlib/commit/4f19dd0fddd451cd6454758b8701e813876a619f) - **chore:** follow-up corrections for recent commits [(#12557)](https://github.com/stdlib-js/stdlib/pull/12557) _(by Philipp Burckhardt)_
 -   [`7fd86dd`](https://github.com/stdlib-js/stdlib/commit/7fd86dd7de37071f3357f99615354b1287c6d23a) - **feat:** add `fft/base` namespace _(by Athan Reines)_
