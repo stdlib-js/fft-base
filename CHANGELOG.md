@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-06)
+## Unreleased (2026-06-07)
 
 <section class="features">
 
@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`2eaed74`](https://github.com/stdlib-js/stdlib/commit/2eaed741444772d3cacb9611bad113a7989394c9) - **docs:** update `fft/base` TypeScript declarations [(#12657)](https://github.com/stdlib-js/stdlib/pull/12657) _(by stdlib-bot)_
 -   [`cd24439`](https://github.com/stdlib-js/stdlib/commit/cd2443936ed0aeda7b8436dc9d60daf5c25c9699) - **docs:** update `fft/base` TypeScript declarations [(#12582)](https://github.com/stdlib-js/stdlib/pull/12582) _(by stdlib-bot)_
 -   [`a698005`](https://github.com/stdlib-js/stdlib/commit/a698005bdd4e4eb1d10dd409b6856414783ffa6a) - **docs:** update `fft/base/fftpack` TypeScript declarations [(#12581)](https://github.com/stdlib-js/stdlib/pull/12581) _(by stdlib-bot)_
 -   [`1c73e85`](https://github.com/stdlib-js/stdlib/commit/1c73e851e01cf30b72e2b478d0b3a4c4386bd4a0) - **docs:** update namespace ToCs _(by Athan Reines)_
